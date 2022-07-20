@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/sourcehut-build-0.65.0.json": "file:///home/eullercristian/estudos/deploy-s3-actions/.github/workflows/deploy.yaml"
+    }
+}
